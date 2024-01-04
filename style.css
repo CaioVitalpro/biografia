@@ -90,6 +90,7 @@ body{
     background-color: var(--cor-hover);
 }
 .apresentacao__imagem{
+    display: flex;
     width: 50%;
 }
 .rodape{
